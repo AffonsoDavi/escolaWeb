@@ -1,0 +1,66 @@
+.back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}   
+
+.corfundo {
+  background-color: rgba(104, 177, 141, 0.607);
+}
+.corfundo2 {
+  background-color: rgba(19, 153, 60, 0.607);
+}
+.corfundo3 {
+  background-color: rgba(158, 177, 104, 0.607);
+}
+
+#cursos,
+#profe,
+#coments,
+#ads,
+#meca,
+#eletro {
+  padding-top: 5%;
+}
+
+
+
+h1, h4 {
+  padding: 2%;
+  text-align: center;
+}
+
+.ajuste{
+  padding: 1%;
+}
+.card-text {
+  text-align: center;
+}
+.card {
+  width: 45%;
+  height: 45%;
+}
+
+
+.feedback {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+
+}
+.feedback .comment {
+  margin-bottom: 15%;
+}
+.feedback .comment p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.feedback .author {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+}
